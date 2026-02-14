@@ -35,8 +35,11 @@
   let display - now.toLocaleTimeString();
   document.write(`현재 시각 ${display} 입니다.`);
 </script>
-```'
+```
 
 링크
 <https://doit-fwd.tistory.com/>
 [하루하루 스터디](https://doit-fwd.tistory.com/)
+
+![프로필 이미지](./스크린샷 2026-02-08 205442.png)
+![프로필 이미지](./스크린샷 2026-02-08 210117.png)
